@@ -22,5 +22,7 @@ docker run --name web3 -v $(pwd)/html:/usr/share/nginx/html:ro -v $(pwd)/lab10/w
 Dostęp do stron każdego z serwerów sprawdzony przez przeglądarkę pod adresami:
 
 http://localhost:8081
+
 http://localhost:8082
+
 http://localhost:8083
