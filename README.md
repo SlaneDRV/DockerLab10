@@ -2,6 +2,7 @@
 
 ```bash
 docker network create lab10net
+```
 
 ### 2. Przygotowanie pliku HTML
 Plik index.html został przygotowany i umieszczony w lokalnym katalogu html.
